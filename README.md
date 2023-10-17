@@ -9,4 +9,4 @@ Os valores são inseridos no banco de dados formando uma tabela com todos os reg
 
 # Screenshots:
 
-<img src='https://raw.githubusercontent.com/viniciuscanutx/Passwordgenerator/main/img/Screenshot_1.png' width=800px />
+<img src='https://raw.githubusercontent.com/viniciuscanutx/CadastrodeProdutos/master/img/Screen01.png' width=800px />
